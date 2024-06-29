@@ -1,4 +1,4 @@
 # CSwap
 
-## Chromatic Swap I: Introduction (CSwap I)
+## Chromatic Swap I: Introduction (CSwap_I)
 My first real attempt at making a PuzzleScript game. Has 10 levels.
